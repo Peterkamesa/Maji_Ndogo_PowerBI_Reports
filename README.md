@@ -1,1 +1,2 @@
 # Maji_Ndogo_PowerBI_Reports
+The Maji Ndogo Water  Project leverages data-driven insights and interactive dashboards to address water access challenges in Maji Ndogo. Using Power BI, the project integrates diverse datasets to track progress, monitor expenditures, and evaluate vendor efficiency. The public dashboard ensures transparency, enabling stakeholders and decision-makers to analyze key metrics such as project completion rates, budget adherence, and population impact. This initiative empowers informed decision-making and supports sustainable development in the region
